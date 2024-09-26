@@ -1,0 +1,14 @@
+{
+  "name": "web-security-header-scanner",
+  "version": "1.0.0",
+  "main": "MAIN/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Gerome Blanco",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^32.1.2"
+  }
+}
